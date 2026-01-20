@@ -1,79 +1,131 @@
-
-
 <div align="center">
-<h1 align="center"> Hi <span>.</span> My name is Гэрэлтбаатар </h1> 
 
-<p align="left"></p>
-<div align="center"><a> <img height="auto" width="auto" src="https://backiee.com/static/wallpapers/1000x563/395499.jpg" /></a></div>
+# Hi, I'm Гэрэлтбаатар 👋  
+### Full Stack Developer
 
-<h4 align="center">Full Stack Developer</h4>
+<img src="https://backiee.com/static/wallpapers/1000x563/395499.jpg" width="720" alt="cover" />
+
 </div>
 
+---
 
-### 🚀 Tech Stack
+## 👨‍💻 About Me
 
-#### 🌐 Frontend
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)&nbsp;
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)&nbsp;
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)](#)&nbsp;
-![shadcn/ui](https://img.shields.io/badge/shadcn--ui-000000?style=flat)&nbsp;
-![DaisyUI](https://img.shields.io/badge/DaisyUI-8A2BE2?style=flat&logo=daisyui&logoColor=white)&nbsp;
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
+Full Stack Developer with hands-on experience building modern **web and mobile applications**.  
+I specialize in **Next.js, TypeScript, GraphQL**, and scalable backend systems,  
+with real-world integrations like **QPay, Bonum, and authentication workflows**.
+
+I focus on **clean architecture, performance, and user-centric design**.
 
 ---
 
-#### 🧠 Backend / API
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
-[![Express.js](https://img.shields.io/badge/Express.js-404d59?logo=express&logoColor=white)](#)&nbsp;
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)&nbsp;
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)&nbsp;
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
+## 🚀 Tech Stack
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn--ui-000000?style=flat)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-8A2BE2?style=flat&logo=daisyui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-0081CB?style=flat&logo=mui&logoColor=white)
 
 ---
 
-#### 🗄️ Database / BaaS
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)&nbsp;
+### 🧠 Backend / API
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens)
+
+---
+
+### 🗄️ Database / BaaS
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E5FF?style=flat&logo=postgresql&logoColor=black)
 
 ---
 
-#### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=white)&nbsp;
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ---
 
-#### 💳 Payment / API Integrations
-![QPay](https://img.shields.io/badge/QPay-0066FF?style=flat)&nbsp;
+### 💳 Payment Integrations
+![QPay](https://img.shields.io/badge/QPay-0066FF?style=flat)
 ![Bonum](https://img.shields.io/badge/Bonum-FF9900?style=flat)
 
 ---
 
-#### ⚙️ Tools & Dev Experience
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)&nbsp;
-![Claude](https://img)
+### ⚙️ Tools & Dev Experience
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
+![Claude](https://img.shields.io/badge/Claude_AI-FF6F00?style=flat)
 
+---
 
+## 🛠 What I Do
 
+- Build scalable **Full Stack Web Applications**
+- Develop **Mobile Apps** with React Native & Expo
+- Design **secure authentication & payment flows**
+- Integrate **QPay, Bonum, and third-party APIs**
+- Work with **PostgreSQL, MongoDB, Supabase, Neon**
+- Focus on **clean UI/UX** and performance
 
-### ⚙️ &nbsp;GitHub Analytics ⚙️
+---
 
-<a class="flex "
-  href="https://github.com/gereltbaatar">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gereltbaatar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gereltbaatar&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+## 🚀 Featured Projects
 
+### 🛒 E-commerce Platform
+- Next.js + GraphQL full-stack architecture  
+- **QPay & Bonum** payment integration  
+- Admin dashboard, order & product management  
+🔒 _Private / In Progress_
 
+---
 
+### 📱 Expense Tracker App
+- React Native + Expo  
+- Offline-first design  
+- Receipt scanning & analytics  
+🚧 _In Progress_
+
+---
+
+## 🧠 Tech Philosophy
+
+- Clean code over clever code  
+- Type safety matters  
+- Performance & UX go together  
+- Build for scale, even in small projects  
+- Automation over repetition  
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gereltbaatar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gereltbaatar&layout=compact&langs_count=8&theme=algolia" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/gereltbaatar  
+- Email: mglgerelt@gmail.com  
+- Open to **freelance**
