@@ -20,6 +20,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)](#)&nbsp;
+![shadcn/ui](https://img.shields.io/badge/shadcn--ui-000000?style=flat)&nbsp;
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-8A2BE2?style=flat&logo=daisyui&logoColor=white)&nbsp;
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
 
@@ -29,13 +30,15 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 [![Express.js](https://img.shields.io/badge/Express.js-404d59?logo=express&logoColor=white)](#)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)&nbsp;
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
 
 ---
 
-#### 🗄️ Database / Backend as a Service
+#### 🗄️ Database / BaaS
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)&nbsp;
+![Neon](https://img.shields.io/badge/Neon-00E5FF?style=flat&logo=postgresql&logoColor=black)
 
 ---
 
@@ -46,13 +49,19 @@
 
 ---
 
+#### 💳 Payment / API Integrations
+![QPay](https://img.shields.io/badge/QPay-0066FF?style=flat)&nbsp;
+![Bonum](https://img.shields.io/badge/Bonum-FF9900?style=flat)
+
+---
+
 #### ⚙️ Tools & Dev Experience
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)&nbsp;
-![Claude](https://img.shields.io/badge/Claude-AI-FF6F00?style=flat)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)&nbsp;
+![Claude](https://img)
 
 
 
