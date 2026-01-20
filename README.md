@@ -7,7 +7,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -17,7 +17,7 @@ with real-world integrations like **QPay, Bonum, and authentication workflows**.
 
 I focus on **clean architecture, performance, and user-centric design**.
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -33,7 +33,7 @@ I focus on **clean architecture, performance, and user-centric design**.
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-8A2BE2?style=flat&logo=daisyui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-0081CB?style=flat&logo=mui&logoColor=white)
 
----
+
 
 ### 🧠 Backend / API
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -42,27 +42,27 @@ I focus on **clean architecture, performance, and user-centric design**.
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens)
 
----
+
 
 ### 🗄️ Database / BaaS
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E5FF?style=flat&logo=postgresql&logoColor=black)
 
----
+
 
 ### 📱 Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
----
+
 
 ### 💳 Payment Integrations
 ![QPay](https://img.shields.io/badge/QPay-0066FF?style=flat)
 ![Bonum](https://img.shields.io/badge/Bonum-FF9900?style=flat)
 
----
+
 
 ### ⚙️ Tools & Dev Experience
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -72,7 +72,7 @@ I focus on **clean architecture, performance, and user-centric design**.
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
 ![Claude](https://img.shields.io/badge/Claude_AI-FF6F00?style=flat)
 
----
+
 
 ## 🛠 What I Do
 
@@ -81,37 +81,8 @@ I focus on **clean architecture, performance, and user-centric design**.
 - Design **secure authentication & payment flows**
 - Integrate **QPay, Bonum, and third-party APIs**
 - Work with **PostgreSQL, MongoDB, Supabase, Neon**
-- Focus on **clean UI/UX** and performance
 
----
 
-## 🚀 Featured Projects
-
-### 🛒 E-commerce Platform
-- Next.js + GraphQL full-stack architecture  
-- **QPay & Bonum** payment integration  
-- Admin dashboard, order & product management  
-🔒 _Private / In Progress_
-
----
-
-### 📱 Expense Tracker App
-- React Native + Expo  
-- Offline-first design  
-- Receipt scanning & analytics  
-🚧 _In Progress_
-
----
-
-## 🧠 Tech Philosophy
-
-- Clean code over clever code  
-- Type safety matters  
-- Performance & UX go together  
-- Build for scale, even in small projects  
-- Automation over repetition  
-
----
 
 ## 📊 GitHub Analytics
 
